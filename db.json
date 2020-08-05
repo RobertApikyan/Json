@@ -2,9 +2,5 @@
    "update":{
       "isUpdateAvailable":true,
       "updateUrl":"https://wellbepublic.blob.core.windows.net/watchdownload/min/1.63/com.hfh.wellbe.smartwatch.apk"
-   },
-   "update2":{
-      "isUpdateAvailable":true,
-      "updateUrl":"https://wellbepublic.blob.core.windows.net/watchdownload/min/1.63/com.hfh.wellbe.smartwatch.apk"
    }
 }
