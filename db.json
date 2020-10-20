@@ -1,6 +1,6 @@
 {
    "flutter":{
-      "news":{
+      "news":
       [
    {
       "userName":"Albert Einstein",
@@ -340,5 +340,5 @@
    }
 ]
       }
-   }
+   
 }
